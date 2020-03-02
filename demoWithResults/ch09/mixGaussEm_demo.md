@@ -8,7 +8,7 @@ n = 1000;
 plotClass(X,label);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/mixGaussEm_demo_images/figure_0.png)
+![](mixGaussEm_demo_images/)
 
 ```matlab
 
@@ -26,14 +26,14 @@ figure;
 plot(llh);
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/mixGaussEm_demo_images/figure_1.png)
+![](mixGaussEm_demo_images/)
 
 ```matlab
 figure;
 plotClass(X1,z1);
 ```
 
-![figure_2.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/mixGaussEm_demo_images/figure_2.png)
+![](mixGaussEm_demo_images/)
 
 ```matlab
 % predict
@@ -42,5 +42,5 @@ figure;
 plotClass(X2,z2);
 ```
 
-![figure_3.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/mixGaussEm_demo_images/figure_3.png)
+![](mixGaussEm_demo_images/)
 

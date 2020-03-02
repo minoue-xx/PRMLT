@@ -18,7 +18,7 @@ axis image;
 colormap gray;
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch08/mrf_demo_images/figure_0.png)
+![](mrf_demo_images/)
 
 # Noisy image
 ```matlab
@@ -31,7 +31,7 @@ axis image;
 colormap gray;
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch08/mrf_demo_images/figure_1.png)
+![](mrf_demo_images/)
 
 # Construct MRF data
 ```matlab
@@ -65,7 +65,7 @@ axis image;
 colormap gray;
 ```
 
-![figure_2.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch08/mrf_demo_images/figure_2.png)
+![](mrf_demo_images/)
 
 # Belief Propagation
 ```matlab
@@ -78,7 +78,7 @@ axis image;
 colormap gray;
 ```
 
-![figure_3.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch08/mrf_demo_images/figure_3.png)
+![](mrf_demo_images/)
 
 # Energy comparation
 ```matlab
@@ -92,5 +92,5 @@ title('Energy Comparation');
 legend('MF','BP');
 ```
 
-![figure_4.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch08/mrf_demo_images/figure_4.png)
+![](mrf_demo_images/)
 

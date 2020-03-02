@@ -15,5 +15,5 @@ plot(x,t,'o');
 hold off;
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch03/linReg_demo_images/figure_0.png)
+![](linReg_demo_images/)
 

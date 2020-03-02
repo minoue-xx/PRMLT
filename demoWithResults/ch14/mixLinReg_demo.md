@@ -8,21 +8,21 @@ n = 500;
 plot(X,y,'.');
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch14/mixLinReg_demo_images/figure_0.png)
+![](mixLinReg_demo_images/)
 
 ```matlab
 [label,model,llh] = mixLinReg(X, y, k);
 plotClass([X;y],label);
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch14/mixLinReg_demo_images/figure_1.png)
+![](mixLinReg_demo_images/)
 
 ```matlab
 figure
 plot(llh);
 ```
 
-![figure_2.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch14/mixLinReg_demo_images/figure_2.png)
+![](mixLinReg_demo_images/)
 
 ```matlab
 [y_,z,p] = mixLinPred(model,X,y);
@@ -30,5 +30,5 @@ figure;
 plotClass([X;y],label);
 ```
 
-![figure_3.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch14/mixLinReg_demo_images/figure_3.png)
+![](mixLinReg_demo_images/)
 

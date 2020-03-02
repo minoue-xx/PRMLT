@@ -6,7 +6,7 @@ n = 1000;
 plotClass(X,t);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch08/nbGauss_demo_images/figure_0.png)
+![](nbGauss_demo_images/)
 
 ```matlab
 
@@ -19,5 +19,5 @@ y2 = nbGaussPred(model,X2);
 plotClass(X2,y2);
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch08/nbGauss_demo_images/figure_1.png)
+![](nbGauss_demo_images/)
 

@@ -10,7 +10,7 @@ n = 1000;
 plot(llh);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch07/rvmBinEm_demo_images/figure_0.png)
+![](rvmBinEm_demo_images/)
 
 ```matlab
 y = rvmBinPred(model,X)+1;
@@ -18,5 +18,5 @@ figure;
 plotClass(X,y);
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch07/rvmBinEm_demo_images/figure_1.png)
+![](rvmBinEm_demo_images/)
 

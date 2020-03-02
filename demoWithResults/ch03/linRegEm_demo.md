@@ -8,5 +8,5 @@ n = 200;
 plot(llh);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch03/linRegEm_demo_images/figure_0.png)
+![](linRegEm_demo_images/)
 

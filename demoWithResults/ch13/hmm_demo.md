@@ -21,5 +21,5 @@ d = 3; k = 2; n = 10000;
 plot(llh)
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch13/hmm_demo_images/figure_0.png)
+![](hmm_demo_images/)
 

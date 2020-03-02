@@ -10,7 +10,7 @@ n = 5000;
 plotClass(X,label);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/kmeans_demo_images/figure_0.png)
+![](kmeans_demo_images/)
 
 # kmeans with random initialization
 ```matlab
@@ -19,7 +19,7 @@ figure;
 plotClass(X,y);
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/kmeans_demo_images/figure_1.png)
+![](kmeans_demo_images/)
 
 # kmeans init with labels
 ```matlab
@@ -28,7 +28,7 @@ figure;
 plotClass(X,y);
 ```
 
-![figure_2.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/kmeans_demo_images/figure_2.png)
+![](kmeans_demo_images/)
 
 # kmeans init with centers
 ```matlab
@@ -38,7 +38,7 @@ figure;
 plotClass(X,y);
 ```
 
-![figure_3.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/kmeans_demo_images/figure_3.png)
+![](kmeans_demo_images/)
 
 # kmeans init with kmeans++ seeding
 ```matlab
@@ -47,7 +47,7 @@ figure;
 plotClass(X,y);
 ```
 
-![figure_4.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/kmeans_demo_images/figure_4.png)
+![](kmeans_demo_images/)
 
 # kmeans++ seeding
 ```matlab
@@ -57,5 +57,5 @@ figure;
 plotClass(X,y);
 ```
 
-![figure_5.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/kmeans_demo_images/figure_5.png)
+![](kmeans_demo_images/)
 

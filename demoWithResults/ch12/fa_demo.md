@@ -10,7 +10,7 @@ X = ppcaRnd(m,d,n);
 plotClass(X);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch12/fa_demo_images/figure_0.png)
+![](fa_demo_images/)
 
 # Factor analysis
 ```matlab
@@ -18,5 +18,5 @@ plotClass(X);
 plot(llh);
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch12/fa_demo_images/figure_1.png)
+![](fa_demo_images/)
 

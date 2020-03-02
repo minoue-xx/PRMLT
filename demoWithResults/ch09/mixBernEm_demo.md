@@ -14,5 +14,5 @@ EM for mixture model: running ...
 plot(llh);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/mixBernEm_demo_images/figure_0.png)
+![](mixBernEm_demo_images/)
 

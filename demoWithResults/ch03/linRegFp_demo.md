@@ -11,7 +11,7 @@ n = 200;
 plot(llh);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch03/linRegFp_demo_images/figure_0.png)
+![](linRegFp_demo_images/)
 
 ```matlab
 [y,sigma] = linRegPred(model,x,t);
@@ -22,5 +22,5 @@ plot(x,t,'o');
 hold off;
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch03/linRegFp_demo_images/figure_1.png)
+![](linRegFp_demo_images/)
 

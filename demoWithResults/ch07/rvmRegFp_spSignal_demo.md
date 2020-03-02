@@ -25,7 +25,7 @@ y = x'*A + e;
 plot(llh);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch07/rvmRegFp_spSignal_demo_images/figure_0.png)
+![](rvmRegFp_spSignal_demo_images/)
 
 ```matlab
 
@@ -40,5 +40,5 @@ subplot(2,1,1);plot(x); axis([x_range,y_range]); title('Original Signal');
 subplot(2,1,2);plot(m); axis([x_range,y_range]); title('Recovery Signal');
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch07/rvmRegFp_spSignal_demo_images/figure_1.png)
+![](rvmRegFp_spSignal_demo_images/)
 

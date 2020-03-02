@@ -9,12 +9,12 @@ init = ceil(k*rand(1,n));
 plotClass(X,label);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/kmedoids_demo_images/figure_0.png)
+![](kmedoids_demo_images/)
 
 ```matlab
 figure;
 plotClass(X,y);
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch09/kmedoids_demo_images/figure_1.png)
+![](kmedoids_demo_images/)
 

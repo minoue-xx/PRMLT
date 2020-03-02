@@ -11,7 +11,7 @@ n = 1000;
 plot(llh);
 ```
 
-![figure_0.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch04/logitBin_demo_images/figure_0.png)
+![](logitBin_demo_images/)
 
 ```matlab
 y = logitBinPred(model,X)+1;
@@ -19,5 +19,5 @@ figure
 binPlot(model,X,y)
 ```
 
-![figure_1.png](C:/Users/minoue/github/PRMLT/demoWithResults/ch04/logitBin_demo_images/figure_1.png)
+![](logitBin_demo_images/)
 
