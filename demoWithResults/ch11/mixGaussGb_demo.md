@@ -8,7 +8,7 @@ n = 500;
 plotClass(X,z);
 ```
 
-![](mixGaussGb_demo_images/)
+![figure_0.png](mixGaussGb_demo_images/figure_0.png)
 
 ```matlab
 
@@ -17,7 +17,7 @@ figure
 plotClass(X,z);
 ```
 
-![](mixGaussGb_demo_images/)
+![figure_1.png](mixGaussGb_demo_images/figure_1.png)
 
 ```matlab
 
@@ -26,5 +26,5 @@ figure
 plotClass(X,z);
 ```
 
-![](mixGaussGb_demo_images/)
+![figure_2.png](mixGaussGb_demo_images/figure_2.png)
 

@@ -9,5 +9,5 @@ y = logitMnPred(model,X);
 plotClass(X,y)
 ```
 
-![](logitMn_demo_images/)
+![figure_0.png](logitMn_demo_images/figure_0.png)
 

@@ -21,5 +21,5 @@ d = 3; k = 2; n = 10000;
 plot(llh)
 ```
 
-![](hmm_demo_images/)
+![figure_0.png](hmm_demo_images/figure_0.png)
 

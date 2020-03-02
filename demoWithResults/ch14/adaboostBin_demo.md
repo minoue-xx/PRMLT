@@ -9,5 +9,5 @@ y = adaboostBinPred(model,X);
 plotClass(X,y+1)
 ```
 
-![](adaboostBin_demo_images/)
+![figure_0.png](adaboostBin_demo_images/figure_0.png)
 

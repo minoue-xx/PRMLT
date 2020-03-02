@@ -14,7 +14,7 @@ x = linspace(min(X),max(X),d);   % test data
 plot(llh);
 ```
 
-![](rvmRegFp_demo_images/)
+![figure_0.png](rvmRegFp_demo_images/figure_0.png)
 
 ```matlab
 [y, sigma] = linRegPred(model,x,t);
@@ -25,5 +25,5 @@ plot(X,t,'o');
 hold off
 ```
 
-![](rvmRegFp_demo_images/)
+![figure_1.png](rvmRegFp_demo_images/figure_1.png)
 

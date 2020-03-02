@@ -15,26 +15,26 @@ EM for Gaussian mixture: running ...
 plotClass(X,label);
 ```
 
-![](kmeans_mixGaussEm_demo_images/)
+![figure_0.png](kmeans_mixGaussEm_demo_images/figure_0.png)
 
 ```matlab
 figure;
 plotClass(X,init);
 ```
 
-![](kmeans_mixGaussEm_demo_images/)
+![figure_1.png](kmeans_mixGaussEm_demo_images/figure_1.png)
 
 ```matlab
 figure;
 plotClass(X,z);
 ```
 
-![](kmeans_mixGaussEm_demo_images/)
+![figure_2.png](kmeans_mixGaussEm_demo_images/figure_2.png)
 
 ```matlab
 figure;
 plot(llh);
 ```
 
-![](kmeans_mixGaussEm_demo_images/)
+![figure_3.png](kmeans_mixGaussEm_demo_images/figure_3.png)
 

@@ -15,5 +15,5 @@ plot(x,t,'o');
 hold off;
 ```
 
-![](linReg_demo_images/)
+![figure_0.png](linReg_demo_images/figure_0.png)
 

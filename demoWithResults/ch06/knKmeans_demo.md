@@ -19,7 +19,7 @@ ans = 0
 plotClass(X,label);
 ```
 
-![](knKmeans_demo_images/)
+![figure_0.png](knKmeans_demo_images/figure_0.png)
 
 # Kernel kmeans with Gaussian Kernel for nonlinear data
 ```matlab
@@ -34,5 +34,5 @@ figure;
 plotClass(X,label);
 ```
 
-![](knKmeans_demo_images/)
+![figure_1.png](knKmeans_demo_images/figure_1.png)
 

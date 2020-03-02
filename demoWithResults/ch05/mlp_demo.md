@@ -14,7 +14,7 @@ t = mlpRegPred(model,x);
 plot(L);
 ```
 
-![](mlp_demo_images/)
+![figure_0.png](mlp_demo_images/figure_0.png)
 
 ```matlab
 figure;
@@ -24,7 +24,7 @@ plot(x,t);
 hold off
 ```
 
-![](mlp_demo_images/)
+![figure_1.png](mlp_demo_images/figure_1.png)
 
 # Classification
 ```matlab
@@ -36,7 +36,7 @@ figure;
 plotClass(X,y);
 ```
 
-![](mlp_demo_images/)
+![figure_2.png](mlp_demo_images/figure_2.png)
 
 ```matlab
 
@@ -47,14 +47,14 @@ lambda = 1e-2;
 plot(llh);
 ```
 
-![](mlp_demo_images/)
+![figure_3.png](mlp_demo_images/figure_3.png)
 
 ```matlab
 figure;
 plotClass(X,t);
 ```
 
-![](mlp_demo_images/)
+![figure_4.png](mlp_demo_images/figure_4.png)
 
 ```matlab
 figure;

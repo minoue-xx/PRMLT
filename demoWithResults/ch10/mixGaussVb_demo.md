@@ -8,7 +8,7 @@ n = 2000;
 plotClass(X,z);
 ```
 
-![](mixGaussVb_demo_images/)
+![figure_0.png](mixGaussVb_demo_images/figure_0.png)
 
 ```matlab
 m = floor(n/2);
@@ -25,14 +25,14 @@ figure;
 plotClass(X1,y1);
 ```
 
-![](mixGaussVb_demo_images/)
+![figure_1.png](mixGaussVb_demo_images/figure_1.png)
 
 ```matlab
 figure;
 plot(L)
 ```
 
-![](mixGaussVb_demo_images/)
+![figure_2.png](mixGaussVb_demo_images/figure_2.png)
 
 ```matlab
 % Model Evidence
@@ -54,5 +54,5 @@ figure;
 plotClass(X2,y2);
 ```
 
-![](mixGaussVb_demo_images/)
+![figure_3.png](mixGaussVb_demo_images/figure_3.png)
 

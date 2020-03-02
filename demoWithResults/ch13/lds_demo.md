@@ -38,7 +38,7 @@ axis equal
 hold off
 ```
 
-![](lds_demo_images/)
+![figure_0.png](lds_demo_images/figure_0.png)
 
 # Kalman filter
 ```matlab
@@ -53,7 +53,7 @@ axis equal
 hold off
 ```
 
-![](lds_demo_images/)
+![figure_1.png](lds_demo_images/figure_1.png)
 
 # Kalman smoother
 ```matlab
@@ -68,7 +68,7 @@ axis equal
 hold off
 ```
 
-![](lds_demo_images/)
+![figure_2.png](lds_demo_images/figure_2.png)
 
 # LDS Subspace
 ```matlab
@@ -85,7 +85,7 @@ axis equal
 hold off
 ```
 
-![](lds_demo_images/)
+![figure_3.png](lds_demo_images/figure_3.png)
 
 # LDS EM
 ```matlab
@@ -102,12 +102,12 @@ axis equal
 hold off
 ```
 
-![](lds_demo_images/)
+![figure_4.png](lds_demo_images/figure_4.png)
 
 ```matlab
 figure;
 plot(llh);
 ```
 
-![](lds_demo_images/)
+![figure_5.png](lds_demo_images/figure_5.png)
 
